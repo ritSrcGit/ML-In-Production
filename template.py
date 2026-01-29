@@ -22,7 +22,8 @@ list_of_files = [
     f"{project_name}/utils/__init__.py", 
 
     "requirements.txt",
-    "setup.py"
+    "setup.py",
+    "demo.py"
 
 ]
 """

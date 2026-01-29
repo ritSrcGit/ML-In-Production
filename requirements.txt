@@ -10,7 +10,7 @@ imblearn
 xgboost
 catboost
 pymango
-from_root
+from-root
 evidently==0.2.8
 dill
 PyYAML
