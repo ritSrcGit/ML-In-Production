@@ -1,16 +1,5 @@
 README.md
 setup.py
-Project/__init__.py
-Project/components/__init__.py
-Project/components/data_ingestion.py
-Project/components/data_validation.py
-Project/configuration/__init__.py
-Project/constants/__init__.py
-Project/entity/__init__.py
-Project/exception/__init__.py
-Project/logger/__init__.py
-Project/pipeline/__init__.py
-Project/utils/__init__.py
 us_visa/__init__.py
 us_visa.egg-info/PKG-INFO
 us_visa.egg-info/SOURCES.txt
@@ -26,3 +15,4 @@ us_visa/exception/__init__.py
 us_visa/logger/__init__.py
 us_visa/pipeline/__init__.py
 us_visa/utils/__init__.py
+us_visa/utils/main_utils.py
