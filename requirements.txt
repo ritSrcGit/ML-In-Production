@@ -9,7 +9,7 @@ scikit-learn
 imblearn
 xgboost
 catboost
-pymango
+pymongo
 from-root
 evidently==0.2.8
 dill
